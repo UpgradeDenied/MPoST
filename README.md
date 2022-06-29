@@ -1,4 +1,4 @@
-# MPoST
+# SiriTax
 My findings / code in attempt to make the siricoin more fair with tax
 
 # Tax levels
