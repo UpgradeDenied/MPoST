@@ -30,7 +30,13 @@ Implimenting levels of tax and redistributing to lower hashrate miners (AVRs) wo
 700-800MH/s: 15% <br>
 800-900MH/s: 17% <br>
 900-1000MH/s: 19% <br>
-1GH+: 20% <br>
+1GH/s+: 20% <br>
 
-## Pool Mining
-People mining on a 
+### Pool Mining
+Pool owners will be taxed on their overall hashrate, this will not affect miners too much and will contribute in the balancing act of making AVR miners more profitable <br>
+
+less than 1GH/s: 1.5% <br>
+1-2GH/s: 2.5% <br>
+3-5GH/s: 3.5% <br>
+5-10GH/s: 5% <br>
+10GH/s+: 7.5% <br>
