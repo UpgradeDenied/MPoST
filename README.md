@@ -5,7 +5,7 @@ My findings / code in attempt to make the siricoin more fair with tax
 Implimenting levels of tax and redistributing to lower hashrate miners (AVRs) would improve the fairness of the network and would help AVRs actually make Siri in one way or another. <br>
 
 ### AVRs, ESPs and very weak computers
-300KH/s or less: 0% <br>
+less than 300KH/s: 0% <br>
 300-1000KH/s: 2.5% <br>
 1-3MH/s: 2.6% <br>
 
